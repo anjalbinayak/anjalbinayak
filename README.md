@@ -14,7 +14,4 @@ I am Binayak , Philomath , Programmer
 
 
 - 🌱 I’m currently learning Javascript 
-- 💬 Ask me about anything [here](https://github.com/anjalbinayak/anjalbinayak/issues)
-
-
-![Anjal Binayak's github stats](https://github-readme-stats.vercel.app/api?username=anjalbinayak&show_icons=true)
+-  :smiley: I know all memes
