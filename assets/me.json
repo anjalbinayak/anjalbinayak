@@ -1,0 +1,28 @@
+{
+    "basic":{
+        "name": "Anjal Binayak",
+        "full_name": "Anjal Binayak Adhikari",
+        "dob": "2002-08-28",
+        "np_dob": "2059-05-12",
+        "calling": "Web Developer"
+    },
+    "address":{
+        "country": "Nepal"
+    },
+    "website":{"link": "https://binayak.codes"},
+    "social_media":{
+        "twitter":{
+            "username": "anjalbinayak",
+            "joined": "2016"
+        },
+        "github":{
+            "username":  "anjalbinayak",
+            "joined": "2017"
+        },
+        "dev.to":{
+            "username":"anjalbinayak",
+            "joined": "2019"
+        }
+    }
+    
+}
