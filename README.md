@@ -1,1 +1,1 @@
-### Howdy!, I'm Binayak! 👋
+### Hey!, I'm Binayak! 👋
