@@ -1,1 +1,3 @@
-### Hey!, I'm Binayak! 👋
+### Hey 👋
+- 👋 I’m @anjalbinayak
+- 🌱 I’m currently learning Regex
