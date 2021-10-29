@@ -1,3 +1,3 @@
 ### Hey 👋
 - 👋 I’m @anjalbinayak
-- 🌱 I’m currently learning Regex
+- 🌱 I’m currently learning WordPress 
