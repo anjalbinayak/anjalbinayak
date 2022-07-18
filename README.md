@@ -2,7 +2,7 @@
 - 👋 I’m @anjalbinayak
 - 🌱 I’m currently learning Django 
 - 🧠 Interested Topics Include [Neuro Science, Economics, Psychology]
-- 🏗  Recently Built [NAPP](https://napp-eight.vercel.app/)
+- 🏗  Recently Built [NAPP](https://napp-eight.vercel.app/), [Portfolio](https://anjalbinayak.vercel.app), [Gloaith Website] (https://gloaith.vercel.app/)
 
 
 ## Tech
