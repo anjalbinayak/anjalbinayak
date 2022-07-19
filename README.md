@@ -1,6 +1,6 @@
 ### Hey 👋
 - 👋 I’m @anjalbinayak
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning to breathe 
 - 🧠 Interested Topics Include [Neuro Science, Economics, Psychology]
 - 🏗  Recently Built 
          - [NAPP](https://napp-eight.vercel.app/)
