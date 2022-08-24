@@ -5,7 +5,6 @@
 - 🏗  Recently Built 
          <br/>- [TweetPic.tk](https://www.tweetpic.tk/)
          <br/>- [NAPP](https://napp-eight.vercel.app/)
-         <br/>- [Portfolio](https://anjalbinayak.vercel.app)
          <br/>- [Reminder App](https://reminder-app-eight.vercel.app/)
          <br/>- [Next Github Stats](https://next-github-stats.vercel.app/)
          <br/>- [Todo with Redux](https://todo-app-lemon-sigma.vercel.app/)
