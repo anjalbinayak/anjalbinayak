@@ -1,7 +1,9 @@
-### Hey 👋
+##  हरि शरणम् 🙏
+
+
 - 👋 I’m @anjalbinayak
-- 🌱 I’m currently learning to breathe 
-- 🧠 Interested Topics Include [Neuro Science, Economics, Psychology]
+- 🌱 I’m currently learning to learn
+- 🧠 Interested Topics Include [Neuro Science,Vedanta, Economics, Psychology]
 - 🏗  Recently Built 
          <br/>- [TweetPic.tk](https://www.tweetpic.tk/)
          <br/>- [NAPP](https://napp-eight.vercel.app/)
@@ -11,7 +13,7 @@
          <br/>- [Gloaith Website](https://gloaith.vercel.app/)
 
 
-## Tech
+## Tech [प्रविधि]
 
 Its mostly about ```What I build``` than ```Tech I use```
 
