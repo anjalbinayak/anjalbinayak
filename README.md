@@ -33,6 +33,13 @@ Its mostly about ```What I build``` than ```Tech I use```
 - [TailWindCSS]() - Learning it. I think it is very flexible CSS Library
 
 
+
+#### DevOps
+
+- [Docker]() <img src="https://em-content.zobj.net/source/joypixels-animations/366/spouting-whale_1f433.gif" height="30px"  />
+- [Github CI/CD]() <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/seedling_1f331.gif" height="30px" />
+
+
   
 
 
