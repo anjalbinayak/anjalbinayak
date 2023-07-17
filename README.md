@@ -13,15 +13,19 @@
          <br/>- [Gloaith Website](https://gloaith.vercel.app/)
 
 
-## Tech [प्रविधि]
-
+## Tech
 Its mostly about ```What I build``` than ```Tech I use```
 
+#### Backend
 - [PHP]() - I ♥ it for multiple reasons!
 - [ASP]() - Learnt at my first job 👨‍💻
-- [Django]() - created few MVPs🚀. I will use it often in future 
+- [Django]() - created few MVPs🚀. I will use it often in future
+- [Rust]() - Learning 
 
 
+
+
+#### Frontend
 
 - [ReactJS]() - Mostly For NextJS 👀
 - [NextJs]() - GoTo Frontend Framework 💨
