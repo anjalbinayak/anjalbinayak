@@ -26,7 +26,7 @@ Its mostly about ```What I build``` than ```Tech I use```
 
 
 #### Frontend
-
+- [Typescript]()
 - [ReactJS]() - Mostly For NextJS <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="20px" style="display:none" />
 - [NextJs]() - GoTo Frontend Framework 💨
 - [ChakraUI]() - Fastest way to design MVP ⌛
