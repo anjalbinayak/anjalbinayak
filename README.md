@@ -4,13 +4,20 @@
 - 👋 I’m @anjalbinayak
 - 🌱 I’m currently learning to learn
 - 🧠 Interested Topics Include [Neuro Science,Vedanta, Economics, Psychology]
-- 🏗  Recently Built 
-         <br/>- [TweetPic.tk](https://www.tweetpic.tk/)
-         <br/>- [NAPP](https://napp-eight.vercel.app/)
-         <br/>- [Reminder App](https://reminder-app-eight.vercel.app/)
-         <br/>- [Next Github Stats](https://next-github-stats.vercel.app/)
-         <br/>- [Todo with Redux](https://todo-app-lemon-sigma.vercel.app/)
-         <br/>- [Gloaith Website](https://gloaith.vercel.app/)
+
+
+
+## 🏗  Recently Built
+
+|Project  | Tech Stack  |
+|--:|--|
+|  [Tweetpic.tk](tweetpic.tk)| Nextjs, TwitterAPI |
+|  [Napp](https://napp-19.vercel.app/)| Nextjs, Firebase |
+|  [Reminder App](https://reminder-app-eight.vercel.app/)| Nextjs, Firebase |
+|  [Github Stats](https://next-github-stats.vercel.app/)| Nextjs, GithubAPI |
+|  [Todo App](https://todo-app-lemon-sigma.vercel.app/)| Nextjs, Redux |
+|  [Tapp](https://tapp-delta.vercel.app/)| Nextjs, Firebase |
+
 
 
 ## Tech
