@@ -4,7 +4,7 @@
 ###  Introduction 👋
 
 -  I am currently doing Frontend Development with Nextjs 
--  Here's my [Blog](anjalbinayak.com.np)
+-  Here's my [webSITE](https://anjalbinayak.com.np)
 
 ### 🏗  Recently Built
 
