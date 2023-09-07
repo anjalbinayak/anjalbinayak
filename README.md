@@ -10,12 +10,13 @@
 
 |Project &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; | Tech Stack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 |:--|--|
-|  [Tweetpic.tk](tweetpic.tk)| Nextjs, TwitterAPI |
-|  [Napp](https://napp-19.vercel.app/)| Nextjs, Firebase | 
-|  [Reminder App](https://reminder-app-eight.vercel.app/)| Nextjs, Firebase |
+|  [portfolio](https://anjalbinayak.com.np)| Nextjs, Mdx(content), ChakraUI |
+|  [Tweetpic.tk](tweetpic.tk)| Nextjs, TwitterAPI, ChakraUI |
+|  [Napp](https://napp-19.vercel.app/)| Nextjs, Firebase, ChakraUI | 
+|  [Reminder App](https://reminder-app-eight.vercel.app/)| Nextjs, Firebase, ChakraUI |
 |  [Github Stats](https://next-github-stats.vercel.app/)| Nextjs, GithubAPI | 
-|  [Todo App](https://todo-app-lemon-sigma.vercel.app/)| Nextjs, Redux | 
-|  [Tapp](https://tapp-delta.vercel.app/)| Nextjs, Firebase |
+|  [Todo App](https://todo-app-lemon-sigma.vercel.app/)| Nextjs, Redux, ChakraUI | 
+|  [Tapp](https://tapp-delta.vercel.app/)| Nextjs, Firebase, ChakraUI |
 
 
 <details>
