@@ -1,17 +1,11 @@
-☀
-
-
-###  Introduction 👋
-
--  I am currently doing Frontend Development with Nextjs 
--  I do **SEO** & **Writing** when I am not coding 
+☀ Hey
 
 ### 🏗  Recently Built
 
 |Project &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; | Tech Stack &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 |:--|--|
 |  [portfolio](https://anjalbinayak.com.np)| Nextjs, Mdx(content), ChakraUI |
-|  [Tweetpic.tk](tweetpic.tk)| Nextjs, TwitterAPI, ChakraUI |
+|  [Tweetpic.tk](//tweet-screenshot.vercel.app)| Nextjs, TwitterAPI, ChakraUI |
 |  [Napp](https://napp-19.vercel.app/)| Nextjs, Firebase, ChakraUI | 
 |  [Reminder App](https://reminder-app-eight.vercel.app/)| Nextjs, Firebase, ChakraUI |
 |  [Github Stats](https://next-github-stats.vercel.app/)| Nextjs, GithubAPI | 
